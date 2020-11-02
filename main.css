@@ -1,5 +1,5 @@
 html, body {
-    background-color: white;
+    background: linear-gradient(to right bottom, red,orange,yellow,green,blue,indigo,violet);
     color:black;
     font-family: 'Staatliches', cursive;
     letter-spacing: 3px;
