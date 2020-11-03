@@ -50,7 +50,7 @@ h2 {
 .accordion a:hover,
 .accordion a:hover::after {
     cursor: pointer;
-    color: #ff5353;
+    color: black;
 }
 
 .accordion a:hover::after {
@@ -58,7 +58,7 @@ h2 {
 }
 
 .accordion a.active {
-    color: #ff5353;
+    color: black;
     border-bottom: 1px solid #ff5353;
 }
 
@@ -83,7 +83,7 @@ h2 {
 .accordion a.active::after {
     font-family: 'Ionicons';
     content: '\f209';
-    color: #ff5353;
+    color: black;
     border: 1px solid #ff5353;
 }
 
